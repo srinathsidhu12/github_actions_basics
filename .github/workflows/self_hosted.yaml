@@ -1,3 +1,5 @@
+name: self_hosted_first_job
+on: [push]
 jobs:
   build:
     runs-on: self-hosted
